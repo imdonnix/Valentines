@@ -54,7 +54,7 @@ const App: React.FC = () => {
     <div className="app">
       <h1>Will you be my date on Valentine's?</h1>
       <button className="button" id="yesButton" onClick={handleYesClick}>
-        Yes
+        Yes!
       </button>
       <button
         className="button"
