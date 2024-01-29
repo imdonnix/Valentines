@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/imdonnix.io/Valentines/static/css/main.f4183b12.css",
+    "main.js": "/imdonnix.io/Valentines/static/js/main.9a644f5a.js",
+    "static/js/787.38f16daf.chunk.js": "/imdonnix.io/Valentines/static/js/787.38f16daf.chunk.js",
+    "index.html": "/imdonnix.io/Valentines/index.html",
+    "main.f4183b12.css.map": "/imdonnix.io/Valentines/static/css/main.f4183b12.css.map",
+    "main.9a644f5a.js.map": "/imdonnix.io/Valentines/static/js/main.9a644f5a.js.map",
+    "787.38f16daf.chunk.js.map": "/imdonnix.io/Valentines/static/js/787.38f16daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4183b12.css",
+    "static/js/main.9a644f5a.js"
+  ]
+}
