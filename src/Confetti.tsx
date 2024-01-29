@@ -48,11 +48,11 @@ const Confetti: React.FC<ConfettiProps> = ({ onClose }) => {
   return (
     <div id="myModal" className="modal">
       <div className="modal-content">
-        <span className="close" onClick={onClose}>
-          &times;
-        </span>
         <p>See you on February 14 my Love!</p>
         <p>I love you so much.</p>
+        <button id="exitButton" className="close button" onClick={onClose}>
+          Exit
+        </button>
         <div id="confettiContainer"></div>
       </div>
     </div>

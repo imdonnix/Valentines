@@ -30,6 +30,11 @@ body {
     background-color: #ff3366;
     color: white;
   }
+
+  .button#exitButton {
+    background-color: #ff3366;
+    color: white;
+  }
   
   .button:hover {
     transform: scale(1.05);
@@ -56,13 +61,6 @@ body {
     width: 60%;
     max-width: 400px; 
 }
-  
-.close {
-    position: absolute;
-    top: 365px;
-    right: 680px;
-    cursor: pointer;
-}
 
   .close:hover {
     color: red;
@@ -88,4 +86,4 @@ body {
       transform: translateY(100vh) rotate(360deg);
     }
   }
-  
+

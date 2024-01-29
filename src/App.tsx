@@ -52,7 +52,7 @@ const App: React.FC = () => {
 
   return (
     <div className="app">
-      <h1>Will you be my date on Valentine's????????</h1>
+      <h1>Will you be my date on Valentine's?</h1>
       <button className="button" id="yesButton" onClick={handleYesClick}>
         Yes!
       </button>
